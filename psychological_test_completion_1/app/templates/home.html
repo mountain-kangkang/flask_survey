@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>반갑습니다</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        #question {
+            margin-top: 50px;
+            font-size: 24px;
+        }
+        #buttons {
+            margin-top: 20px;
+        }
+        button {
+            font-size: 18px;
+            margin: 15px;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h2>간단한 설문 조사!</h2>
+    <div id="question"></div>
+    <div id="buttons">
+        <button id="start">설문 시작</button>
+        <button id="admin">admin</button>
+    </div>
+
+    <script>
+        document.getElementById("start").addEventListener("click", () => {
+            window.location.href = "/index"
+        });
+
+        document.getElementById("admin").addEventListener("click", () => {
+            window.location.href = "/admin"
+        });
+    </script>
+</body>
+</html>

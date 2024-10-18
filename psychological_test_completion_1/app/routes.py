@@ -24,9 +24,8 @@ main = Blueprint("main", __name__)
 admin = Blueprint("admin", __name__, url_prefix="/admin/")
 
 
-@main.route("/", methods=["GET"])
+@main.route("/")
 def home():
-    # 참여자 정보 입력 페이지를 렌더링합니다.
     return render_template("home.html")
 
 @main.route("/index", methods=["GET"])

@@ -17,10 +17,8 @@
 ---
 
 ### demo
-<details>
-<summary>survey ver</summary>
+- survey ver
 ![ver_survey](./img/ver_survey.gif)
-</details>
 <details>
 <summary>admin ver</summary>
 ![ver_admin](./img/ver_admin.gif)

@@ -69,7 +69,9 @@ flask run
     - 설문 응답자의 이름, 나이대, 성별을 JSON 형태로 수집하고, 설문 응답자의 ID를 반환하며 quiz 페이지를 리다이렉션
     <details>
     <summary>code</summary>
+
     ![def_add_participant()](/img/def_add_participant().png)
+    
     </details>
 - `def quiz()` 설문 시작
     - 데이터베이스에 저장된 설문 항목들을 불러오며 설문 시작

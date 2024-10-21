@@ -19,11 +19,11 @@
 ### demo
 <details>
 <summary>survey ver</summary>
-![survey](/img/ver_survey.gif)
+![survey](./img/ver_survey.gif)
 </details>
 <details>
 <summary>admin ver</summary>
-![admin](/img/ver_admin.gif)
+![admin](./img/ver_admin.gif)
 </details>
 
 ---

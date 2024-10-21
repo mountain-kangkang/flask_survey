@@ -19,10 +19,8 @@
 ### demo
 - survey ver
 ![ver_survey](./img/ver_survey.gif)
-<details>
-<summary>admin ver</summary>
+- admin ver
 ![ver_admin](./img/ver_admin.gif)
-</details>
 
 ---
 

@@ -1,4 +1,4 @@
-# a survey using flask
+# a survey using flask  작성중...
 #### flask를 이용한 설문조사
 ---
 
@@ -12,7 +12,7 @@
 
 ### Routes
 - `route(rule, **options)`
-    - 매개변수 `rule`에 URL을... 그리고 `options`에 메소드 CRUD, 즉 POST, GET, PUT, DELETE를 입력받아 맵핑합니다.
+    - 매개변수 `rule`에 URL을... 그리고 `options`에 HTTP 메소드 CRUD, 즉 POST, GET, PUT, DELETE를 입력받아 맵핑합니다.
 - `def home()`
     - 처음 `http://127.0.0.1:5000`으로 접속하면 보이는 화면을 띄우는 route
     - 설문을 시작하거나 admin 페이지로 진입 가능하도록 만들었음

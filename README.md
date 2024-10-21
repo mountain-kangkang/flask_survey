@@ -3,7 +3,7 @@
 ---
 
 ### Execution Guide
-- installation
+- Installation
 ```
 git clone https://github.com/mountain-kangkang/flask_survey.git
 cd flask_survey
@@ -15,7 +15,7 @@ pip3 install flask-migrate
 pip3 install pandas
 pip3 install sqlalchemy
 ```
-- change Diretory
+- Change Diretory
 ```
 cd survey_task
 ```

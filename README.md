@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/pandas-2.2.3-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
     <img src="https://img.shields.io/badge/Plotly-5.24.1-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</dic>
+</div>
 
 ---
 

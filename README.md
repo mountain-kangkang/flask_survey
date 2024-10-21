@@ -1,5 +1,6 @@
 # a survey using flask  작성중...
 #### flask를 이용한 설문조사
+---
 
 ### Version
 <div align="center">
@@ -23,7 +24,8 @@
 ![ver_admin](./img/ver_admin.gif)
 
 ---
-
+<details>
+<summary>중요기능 편집중</summary>
 ### Routes
 - `route(rule, **options)`
     - 매개변수 `rule`에 URL을... 그리고 `options`에 HTTP 메소드 CRUD, 즉 POST, GET, PUT, DELETE를 입력받아 맵핑합니다.
@@ -37,7 +39,7 @@
     - 설문 응답자의 이름, 나이대, 성별을 수집하고, 설문 응답자의 id와 id생성일자를 생성하고 DB에 저장 및 설문 응답자의 id를 가지고 설문을 시작
     ![def_add_participant()](/img/def_add_participant().png)
     ![index](/img/index_html.png)
-
+</details>
 
 ---
 ### DB Relationship

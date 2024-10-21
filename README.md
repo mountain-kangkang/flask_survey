@@ -2,6 +2,13 @@
 #### flask를 이용한 설문조사
 ---
 
+### Guide
+- installation
+```
+git clone https://github.com/mountain-kangkang/flask_survey.git
+```
+
+
 ### Version
 <div align="center">
     <img src="https://img.shields.io/badge/python-3.10.11-3776AB?style=for-the-badge&logo=python&logoColor=white"/>

@@ -2,10 +2,30 @@
 #### flask를 이용한 설문조사
 ---
 
-### Guide
+### Execution Guide
 - installation
 ```
 git clone https://github.com/mountain-kangkang/flask_survey.git
+cd flask_survey
+```
+```
+pip3 install flask
+pip3 install plotly
+pip3 install flask-migrate
+pip3 install pandas
+pip3 install sqlalchemy
+```
+- change Diretory
+```
+cd survey_task
+```
+- Initialize DB
+```
+flask init-db
+```
+- Execution
+```
+flask run
 ```
 
 

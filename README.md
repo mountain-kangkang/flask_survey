@@ -1,4 +1,4 @@
-# a survey using flask  작성중...
+# a survey using flask
 #### flask를 이용한 설문조사
 ---
 

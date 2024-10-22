@@ -98,4 +98,10 @@ empty...
 
 ---
 ### DB Relationship
+
+<details>
+<summmary> </summary>
+
 ![db relationship](/img/DB_Diagram.png)
+
+</details>
